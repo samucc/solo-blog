@@ -10,6 +10,8 @@ samucc
 
 ### 最新
 
+* [this is a test message](http://jiashu.club/articles/2019/07/05/1562319101915.html)
+* [WEB页集成AliPlayer](http://jiashu.club/articles/2019/07/05/1562313070127.html)
 * [我在 GitHub 上的开源项目](http://jiashu.club/my-github-repos)
 * [免费申请GCP资源 SSR VPN搭建](http://jiashu.club/articles/2019/07/03/1562119376259.html)
 * [博客使用图床](http://jiashu.club/articles/2019/07/03/1562118592576.html)

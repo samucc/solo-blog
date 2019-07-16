@@ -10,6 +10,12 @@ samucc
 
 ### 最新
 
+* [普罗-ZABBIX发送告警到钉钉](http://jiashu.club/articles/2019/07/16/1563263254966.html)
+* [Consul集群搭建](http://jiashu.club/articles/2019/07/16/1563262967809.html)
+* [MySQL集群搭建](http://jiashu.club/articles/2019/07/16/1563262364838.html)
+* [打印资产标签 生成物理资产标签](http://jiashu.club/articles/2019/07/16/1563261590204.html)
+* [Mapbox地图本地离线部署 离线地图](http://jiashu.club/articles/2019/07/16/1563261094665.html)
+* [安装IPMI相关并使用IPMI-Exporter监控](http://jiashu.club/articles/2019/07/16/1563260290067.html)
 * [markdown语法](http://jiashu.club/articles/2019/07/08/1562553987668.html)
 * [WEB页集成AliPlayer](http://jiashu.club/articles/2019/07/05/1562313070127.html)
 * [我在 GitHub 上的开源项目](http://jiashu.club/my-github-repos)

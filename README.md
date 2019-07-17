@@ -22,7 +22,6 @@ samucc
 * [免费申请GCP资源 SSR VPN搭建](http://jiashu.club/articles/2019/07/03/1562119376259.html)
 * [博客使用图床](http://jiashu.club/articles/2019/07/03/1562118592576.html)
 * [通过Docker方式安装solo](http://jiashu.club/articles/2019/07/02/1562038241065.html)
-* [世界，你好！](http://jiashu.club/hello-solo)
 
 
 

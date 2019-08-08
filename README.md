@@ -10,6 +10,8 @@ samucc
 
 ### 最新
 
+* [手动安装IPMI相关并使用prometheus监控，批量ansible安装ipmi](http://jiashu.club/articles/2019/08/07/1565168296048.html)
+* [x86使用ansible批量安装node_exporter](http://jiashu.club/articles/2019/08/07/1565165800252.html)
 * [IDC机房主机及网络设备命名规则](http://jiashu.club/articles/2019/07/19/1563518615205.html)
 * [普罗-ZABBIX发送告警到钉钉](http://jiashu.club/articles/2019/07/16/1563263254966.html)
 * [Consul集群搭建](http://jiashu.club/articles/2019/07/16/1563262967809.html)

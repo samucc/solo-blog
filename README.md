@@ -10,6 +10,7 @@ samucc
 
 ### 最新
 
+* [nagios安装监控bmc](http://jiashu.club/articles/2019/08/27/1566868475767.html)
 * [使用smartd监控硬盘信息](http://jiashu.club/articles/2019/08/23/1566525314983.html)
 * [CMDB-Prometheus-Grafana监控展示IPMI信息](http://jiashu.club/articles/2019/08/23/1566524440966.html)
 * [手动安装IPMI相关并使用prometheus监控，批量ansible安装ipmi](http://jiashu.club/articles/2019/08/07/1565168296048.html)

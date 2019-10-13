@@ -10,6 +10,7 @@ samucc
 
 ### 最新
 
+* [Centos7 安装ELK方案（filebeat+kafka+elasticsearch+logstash+kibana）](http://jiashu.club/articles/2019/10/13/1570943474689.html)
 * [PMP报名准备及考试](http://jiashu.club/articles/2019/09/09/1568010345563.html)
 * [nagios安装监控bmc](http://jiashu.club/articles/2019/08/27/1566868475767.html)
 * [使用smartd监控硬盘信息](http://jiashu.club/articles/2019/08/23/1566525314983.html)
